@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Razor.Render.CommandLine</id>
+    <version>1.0.0</version>
+    <title>Razor Render CommandLine</title>
+    <authors>Knut Kristian Johansen</authors>
+    <owners>Knut Kristian Johansen</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <summary>PowerShell Cmdlet for rendering a Razor template from the command line.</summary>
+    <description>PowerShell Cmdlet for rendering a Razor template from the command line.</description>
+    <releaseNotes>Initial release.</releaseNotes>
+    <copyright>Copyright 2012</copyright>
+    <tags>PowerShell, Razor, Cmdlet, CommandLine, Template</tags>
+    <dependencies>
+      <dependency id="AspNetRazor.Core" version="2.0.20126.16343" />
+    </dependencies>
+  </metadata>
+</package>
