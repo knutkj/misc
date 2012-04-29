@@ -36,6 +36,9 @@
     <None Include="Razor.Render.CommandLine.nuspec" />
     <None Include="Render-RazorTemplate.ps1" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="README-razor.render.commandline.txt" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
